@@ -8,4 +8,5 @@
   * by adding a new commit OR
   * (BONUS) using `git rebase -i` to remove the original erroneous commit.
 
-"I'm here for you."
+
+This is now different than the original commit.
